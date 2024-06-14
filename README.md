@@ -13,10 +13,11 @@ Thank you for visiting my GitHub portfolio! 🚀
 
 ## My Projects:
 
-* [Amazon Recommendation System](https://github.com/rafacanedo/project1) - A recommendation system for Amazon products based on customer ratings.
-* [FIFA World Cup Data Analysis](https://github.com/rafacanedo/project2) - A data analysis project exploring the history and statistics of the FIFA World Cup tournaments.
-* [FoodHub Data Analysis](https://github.com/rafacanedo/project3) - A data analysis project to examine customer order data for FoodHub.
-* [Uber Data Analysis](https://github.com/rafacanedo/project3) - A data analysis project to the investigate the number of Uber pickups the factors that affect them and their nature.
+* [Amazon Recommendation System](https://github.com/Rafacanedo/Portfolio/tree/main/Projects/2023_Amazon_Recommendation_System) - A recommendation system for Amazon products based on customer ratings.
+* [FIFA World Cup Data Analysis](https://github.com/Rafacanedo/Portfolio/tree/main/Projects/2024_FIFA_World_Cup_Data_Analysis) - A data analysis project exploring the history and statistics of the FIFA World Cup tournaments.
+* [FoodHub Data Analysis](https://github.com/Rafacanedo/Portfolio/tree/main/Projects/2024_FoodHub_Data_Analysis) - A data analysis project to examine customer order data for FoodHub.
+* [Uber Data Analysis](https://github.com/Rafacanedo/Portfolio/tree/main/Projects/2024_Uber_Data_Analysis) - A data analysis project to the investigate the number of Uber pickups the factors that affect them and their nature.
 
 ## Contact
 You can reach me at [rafacanedoa@gmail.com](mailto:rafacanedoa@gmail.com).
+Find me on [LinkedIn](https://www.linkedin.com/in/rafaelcanedo/).
